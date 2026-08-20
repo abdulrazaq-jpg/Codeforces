@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 144 | 19 |
+| 146 | 19 |
 
 ---
 
@@ -22,13 +22,13 @@
 - [expression parsing](#expression-parsing) (1)
 - [games](#games) (5)
 - [graph matchings](#graph-matchings) (1)
-- [greedy](#greedy) (62)
-- [implementation](#implementation) (50)
-- [math](#math) (59)
+- [greedy](#greedy) (63)
+- [implementation](#implementation) (51)
+- [math](#math) (60)
 - [number theory](#number-theory) (10)
 - [schedules](#schedules) (2)
 - [shortest paths](#shortest-paths) (1)
-- [sortings](#sortings) (18)
+- [sortings](#sortings) (19)
 - [strings](#strings) (24)
 - [two pointers](#two-pointers) (1)
 
@@ -169,6 +169,7 @@
 | 50A | [Domino piling](https://codeforces.com/contest/50/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/abdulrazaq-jpg/Codeforces/blob/HEAD/50/A%20-%20Domino%20piling/solution.cpp) |
 | 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/abdulrazaq-jpg/Codeforces/blob/HEAD/231/A%20-%20Team/solution.cpp) |
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/abdulrazaq-jpg/Codeforces/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.cpp) |
+| 2148C | [Pacer](https://codeforces.com/contest/2148/problem/C) | 900 | [C++17 (GCC 7-32)](https://github.com/abdulrazaq-jpg/Codeforces/blob/HEAD/2148/C%20-%20Pacer/solution.cpp) |
 | 2149C | [MEX rose](https://codeforces.com/contest/2149/problem/C) | 900 | [C++17 (GCC 7-32)](https://github.com/abdulrazaq-jpg/Codeforces/blob/HEAD/2149/C%20-%20MEX%20rose/solution.cpp) |
 | 2156A | [Pizza Time](https://codeforces.com/contest/2156/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/abdulrazaq-jpg/Codeforces/blob/HEAD/2156/A%20-%20Pizza%20Time/solution.cpp) |
 | 2157A | [Dungeon Equilibrium](https://codeforces.com/contest/2157/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/abdulrazaq-jpg/Codeforces/blob/HEAD/2157/A%20-%20Dungeon%20Equilibrium/solution.cpp) |
@@ -270,6 +271,7 @@
 | 2178B | [Impost or Sus](https://codeforces.com/contest/2178/problem/B) | 900 | [C++17 (GCC 7-32)](https://github.com/abdulrazaq-jpg/Codeforces/blob/HEAD/2178/B%20-%20Impost%20or%20Sus/solution.cpp) |
 | 2179B | [Blackslex and Showering](https://codeforces.com/contest/2179/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/abdulrazaq-jpg/Codeforces/blob/HEAD/2179/B%20-%20Blackslex%20and%20Showering/solution.cpp) |
 | 2182A | [New Year String](https://codeforces.com/contest/2182/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/abdulrazaq-jpg/Codeforces/blob/HEAD/2182/A%20-%20New%20Year%20String/solution.cpp) |
+| 2185C | [Shifted MEX](https://codeforces.com/contest/2185/problem/C) | 900 | [C++17 (GCC 7-32)](https://github.com/abdulrazaq-jpg/Codeforces/blob/HEAD/2185/C%20-%20Shifted%20MEX/solution.cpp) |
 | 2189A | [Table with Numbers](https://codeforces.com/contest/2189/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/abdulrazaq-jpg/Codeforces/blob/HEAD/2189/A%20-%20Table%20with%20Numbers/solution.cpp) |
 | 2195B | [Heapify 1](https://codeforces.com/contest/2195/problem/B) | 900 | [C++17 (GCC 7-32)](https://github.com/abdulrazaq-jpg/Codeforces/blob/HEAD/2195/B%20-%20Heapify%201/solution.cpp) |
 | 2204A | [Passing the Ball](https://codeforces.com/contest/2204/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/abdulrazaq-jpg/Codeforces/blob/HEAD/2204/A%20-%20Passing%20the%20Ball/solution.cpp) |
@@ -295,6 +297,7 @@
 | 617A | [Elephant](https://codeforces.com/contest/617/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/abdulrazaq-jpg/Codeforces/blob/HEAD/617/A%20-%20Elephant/solution.cpp) |
 | 2114A | [Square Year](https://codeforces.com/contest/2114/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/abdulrazaq-jpg/Codeforces/blob/HEAD/2114/A%20-%20Square%20Year/solution.cpp) |
 | 2126A | [Only One Digit](https://codeforces.com/contest/2126/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/abdulrazaq-jpg/Codeforces/blob/HEAD/2126/A%20-%20Only%20One%20Digit/solution.cpp) |
+| 2148C | [Pacer](https://codeforces.com/contest/2148/problem/C) | 900 | [C++17 (GCC 7-32)](https://github.com/abdulrazaq-jpg/Codeforces/blob/HEAD/2148/C%20-%20Pacer/solution.cpp) |
 | 2149A | [Be Positive](https://codeforces.com/contest/2149/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/abdulrazaq-jpg/Codeforces/blob/HEAD/2149/A%20-%20Be%20Positive/solution.cpp) |
 | 2155A | [El fucho](https://codeforces.com/contest/2155/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/abdulrazaq-jpg/Codeforces/blob/HEAD/2155/A%20-%20El%20fucho/solution.cpp) |
 | 2157B | [Expansion Plan 2](https://codeforces.com/contest/2157/problem/B) | 900 | [C++17 (GCC 7-32)](https://github.com/abdulrazaq-jpg/Codeforces/blob/HEAD/2157/B%20-%20Expansion%20Plan%202/solution.cpp) |
@@ -387,6 +390,7 @@
 | 2167A | [Square?](https://codeforces.com/contest/2167/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/abdulrazaq-jpg/Codeforces/blob/HEAD/2167/A%20-%20Square%3F/solution.cpp) |
 | 2167B | [Your Name](https://codeforces.com/contest/2167/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/abdulrazaq-jpg/Codeforces/blob/HEAD/2167/B%20-%20Your%20Name/solution.cpp) |
 | 2167C | [Isamatdin and His Magic Wand!](https://codeforces.com/contest/2167/problem/C) | 800 | [C++17 (GCC 7-32)](https://github.com/abdulrazaq-jpg/Codeforces/blob/HEAD/2167/C%20-%20Isamatdin%20and%20His%20Magic%20Wand!/solution.cpp) |
+| 2185C | [Shifted MEX](https://codeforces.com/contest/2185/problem/C) | 900 | [C++17 (GCC 7-32)](https://github.com/abdulrazaq-jpg/Codeforces/blob/HEAD/2185/C%20-%20Shifted%20MEX/solution.cpp) |
 | 2195B | [Heapify 1](https://codeforces.com/contest/2195/problem/B) | 900 | [C++17 (GCC 7-32)](https://github.com/abdulrazaq-jpg/Codeforces/blob/HEAD/2195/B%20-%20Heapify%201/solution.cpp) |
 | 2200B | [Deletion Sort](https://codeforces.com/contest/2200/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/abdulrazaq-jpg/Codeforces/blob/HEAD/2200/B%20-%20Deletion%20Sort/solution.cpp) |
 | 2220A | [Blocked](https://codeforces.com/contest/2220/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/abdulrazaq-jpg/Codeforces/blob/HEAD/2220/A%20-%20Blocked/solution.cpp) |
