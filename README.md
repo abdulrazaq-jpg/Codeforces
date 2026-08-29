@@ -6,13 +6,14 @@
 
 | Total Problems | Topics |
 |---|---|
-| 147 | 19 |
+| 148 | 20 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [*special](#special) (1)
+- [Uncategorized](#uncategorized) (1)
 - [binary search](#binary-search) (4)
 - [bitmasks](#bitmasks) (3)
 - [brute force](#brute-force) (32)
@@ -39,6 +40,12 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 158A | [Next Round](https://codeforces.com/contest/158/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/abdulrazaq-jpg/Codeforces/blob/HEAD/158/A%20-%20Next%20Round/solution.cpp) |
+
+### Uncategorized
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2258A | [Odd Eraser](https://codeforces.com/contest/2258/problem/A) | Unrated | [C++17 (GCC 7-32)](https://github.com/abdulrazaq-jpg/Codeforces/blob/HEAD/2258/A%20-%20Odd%20Eraser/solution.cpp) |
 
 ### binary search
 
