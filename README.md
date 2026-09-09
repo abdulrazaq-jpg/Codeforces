@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 151 | 20 |
+| 152 | 20 |
 
 ---
 
@@ -24,7 +24,7 @@
 - [games](#games) (5)
 - [graph matchings](#graph-matchings) (1)
 - [greedy](#greedy) (63)
-- [implementation](#implementation) (52)
+- [implementation](#implementation) (53)
 - [math](#math) (62)
 - [number theory](#number-theory) (11)
 - [schedules](#schedules) (2)
@@ -294,6 +294,7 @@
 | 2254A | [Riptide](https://codeforces.com/contest/2254/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/abdulrazaq-jpg/Codeforces/blob/HEAD/2254/A%20-%20Riptide/solution.cpp) |
 | 2254B | [Evanescent](https://codeforces.com/contest/2254/problem/B) | 900 | [C++17 (GCC 7-32)](https://github.com/abdulrazaq-jpg/Codeforces/blob/HEAD/2254/B%20-%20Evanescent/solution.cpp) |
 | 2256B | [Domino Tiles](https://codeforces.com/contest/2256/problem/B) | 1000 | [C++17 (GCC 7-32)](https://github.com/abdulrazaq-jpg/Codeforces/blob/HEAD/2256/B%20-%20Domino%20Tiles/solution.cpp) |
+| 2260A | [Monocarp's Contest](https://codeforces.com/contest/2260/problem/A) | Unrated | [C++17 (GCC 7-32)](https://github.com/abdulrazaq-jpg/Codeforces/blob/HEAD/2260/A%20-%20Monocarp's%20Contest/solution.cpp) |
 
 ### math
 
